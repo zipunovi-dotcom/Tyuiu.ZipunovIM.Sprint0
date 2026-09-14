@@ -1,33 +1,38 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.Zipunov.Sprint0.Task0.V0/Tyuiu.Zipunov.Sprint0.Task0.V0.csproj" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.Zipunov.Sprint0.Task0.V0/Tyuiu.Zipunov.Sprint0.Task0.V0.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task1.V0/Tyuiu.ZipunovIM.Sprint0.Task1.V0.csproj" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task1.V0/Tyuiu.ZipunovIM.Sprint0.Task1.V0.csproj" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task2.V0.lib/Tyuiu.ZipunovIM.Sprint0.Task2.V0.lib.csproj" Id="e2142f2f-47fa-4203-adb4-a36d246bce15" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task2.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task2.V0.Test.csproj" Id="9856b5c8-8353-4184-80b1-9bb826c80fc9" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task2.V0/Tyuiu.ZipunovIM.Sprint0.Task2.V0.csproj" Id="b1dfefc6-706c-4d76-b86b-b6f1855afbbc" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task2.V0.lib/Tyuiu.ZipunovIM.Sprint0.Task2.V0.lib.csproj" Id="e2142f2f-47fa-4203-adb4-a36d246bce15" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task2.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task2.V0.Test.csproj" Id="9856b5c8-8353-4184-80b1-9bb826c80fc9" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task2.V0/Tyuiu.ZipunovIM.Sprint0.Task2.V0.csproj" Id="b1dfefc6-706c-4d76-b86b-b6f1855afbbc" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task3.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Lib.csproj" Id="5ce38ccb-a851-4a0c-aefc-d77b2235623b" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task3.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Test.csproj" Id="78c2635e-a23e-4636-a686-1a34ffdce975" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task3.V0/Tyuiu.ZipunovIM.Sprint0.Task3.V0.csproj" Id="3e847248-f417-47ba-a9ae-1b0f8bc0ca2c" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Lib.csproj" Id="5ce38ccb-a851-4a0c-aefc-d77b2235623b" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task3.V0.Test.csproj" Id="78c2635e-a23e-4636-a686-1a34ffdce975" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task3.V0/Tyuiu.ZipunovIM.Sprint0.Task3.V0.csproj" Id="3e847248-f417-47ba-a9ae-1b0f8bc0ca2c" />
   </Folder>
   <Folder Name="/Task4/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task4.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Lib.csproj" Id="92781136-88ae-4621-9961-a436828407b6" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task4.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Test.csproj" Id="36359763-e0ba-43eb-8f82-3d5dd9b33add" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task4.V0/Tyuiu.ZipunovIM.Sprint0.Task4.V0.csproj" Id="64f95ecc-8885-41d4-ad28-bb14821a9003" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Lib.csproj" Id="92781136-88ae-4621-9961-a436828407b6" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task4.V0.Test.csproj" Id="36359763-e0ba-43eb-8f82-3d5dd9b33add" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task4.V0/Tyuiu.ZipunovIM.Sprint0.Task4.V0.csproj" Id="64f95ecc-8885-41d4-ad28-bb14821a9003" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task5.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Lib.csproj" Id="38b4ef08-0ff4-46f9-97cd-925ff724c358" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task5.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Test.csproj" Id="c320dc9e-16fe-42ab-acb4-f5b3470eaf13" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task5.V0/Tyuiu.ZipunovIM.Sprint0.Task5.V0.csproj" Id="83812b79-c6d8-497e-aeb0-f5bdd8aa4c14" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Lib.csproj" Id="38b4ef08-0ff4-46f9-97cd-925ff724c358" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task5.V0.Test.csproj" Id="c320dc9e-16fe-42ab-acb4-f5b3470eaf13" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task5.V0/Tyuiu.ZipunovIM.Sprint0.Task5.V0.csproj" Id="83812b79-c6d8-497e-aeb0-f5bdd8aa4c14" />
   </Folder>
   <Folder Name="/Task6/">
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task6.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Lib.csproj" Id="ed22bf45-94d3-456b-b1e9-3bf5f8c65cd5" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task6.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Test.csproj" Id="969a4b7d-7f42-4ac2-b568-55f74010041e" />
-    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task6.V0/Tyuiu.ZipunovIM.Sprint0.Task6.V0.csproj" Id="7f6302ce-c250-4d47-80de-60c8bb0013a0" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Lib.csproj" Id="ed22bf45-94d3-456b-b1e9-3bf5f8c65cd5" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task6.V0.Test.csproj" Id="969a4b7d-7f42-4ac2-b568-55f74010041e" />
+    <Project Path="../../../../../source/repos/Tyuiu.ZipunovIM.Sprint0/Tyuiu.ZipunovIM.Sprint0.Task6.V0/Tyuiu.ZipunovIM.Sprint0.Task6.V0.csproj" Id="7f6302ce-c250-4d47-80de-60c8bb0013a0" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task7.V0.Lib/Tyuiu.ZipunovIM.Sprint0.Task7.V0.Lib.csproj" Id="701d4b98-d228-4cce-8268-1efbd3fc7fe0" />
+    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task7.V0.Test/Tyuiu.ZipunovIM.Sprint0.Task7.V0.Test.csproj" Id="f09334fd-b384-4041-84cd-7e323b61d04b" />
+    <Project Path="Tyuiu.ZipunovIM.Sprint0.Task7.V0/Tyuiu.ZipunovIM.Sprint0.Task7.V0.csproj" Id="efa87457-17c8-4bbe-a05e-79f31440e799" />
   </Folder>
 </Solution>
